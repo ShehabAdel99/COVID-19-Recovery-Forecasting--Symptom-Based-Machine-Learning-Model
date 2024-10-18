@@ -31,7 +31,7 @@ The objective of this project is to design different classifiers to predict the 
 5) Multi-Layer Perceptron
 
 ## Author
-Shehab Adel Ramadan
+Shehab Adel Ramadan Moharram
 ## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
